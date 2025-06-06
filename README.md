@@ -14,7 +14,7 @@ Prepare for and apply to U.S. medical schools (MD or DO) by completing all prere
 
 ---
 
-##  Academic Timeline
+## Academic Timeline
 
 - **Summer 2025**: Begin work as Phlebotomist at UW Medicine (clinical experience phase)  
 - **Winter 2026**: Eligible for tuition exemption (6 credits/quarter)  
