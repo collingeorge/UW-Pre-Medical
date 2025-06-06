@@ -4,7 +4,9 @@ Prepare for and apply to U.S. medical schools (MD or DO) by completing all prere
 # UW Medical School Preparation Plan
 
 **Name:** Collin George
+
 **Date:** June 06, 2025
+
 **Plan Type:** Tuition-Efficient Pre-Medical Track via UW Tuition Exemption
 
 ---
