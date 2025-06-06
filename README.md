@@ -57,3 +57,5 @@ Prepare for and apply to U.S. medical schools (MD or DO) by completing all prere
 
 - **Notion**: Track shadowing, MCAT prep, and research hours  
 - **GitHub**: Store application drafts, timeline, and course checklists  
+
+## Credits
