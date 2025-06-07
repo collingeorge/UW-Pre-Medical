@@ -1,9 +1,6 @@
 # UW-Pre-Medical
 Prepare for and apply to U.S. medical schools (MD or DO) by completing all prerequisite science coursework using UW tuition benefits, while gaining clinical experience as a phlebotomist.
 
-## Disclaimer
-These opinions are my own and do not represent the positions of UW Medicine.
-
 # UW Medical School Preparation Plan
 
 **Name:** Collin George
