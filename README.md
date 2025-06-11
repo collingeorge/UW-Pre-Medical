@@ -1,70 +1,61 @@
-# UW-Pre-Medical
-Prepare for and apply to U.S. medical schools (MD or DO) by completing all prerequisite science coursework using UW tuition benefits, while gaining clinical experience as a phlebotomist.
+# UW Pre-Medical Track – Collin George
 
-# UW Medical School Preparation Plan
-
-**Name:** Collin George
-
-**Date:** June 06, 2025
-
-**Plan Type:** Tuition-Efficient Pre-Medical Track via UW Tuition Exemption
+**Updated:** June 11, 2025  
+**Target Specialties:** Anesthesiology, Neurology, Neuropharmacology  
+**Status:** Employed as Phlebotomist @ University of Washington
 
 ---
 
 ## Goal
-Prepare for and apply to U.S. medical schools (MD or DO) by completing all prerequisite science coursework using UW tuition benefits, while gaining clinical experience as a phlebotomist.
-
-## Specialty
-
-Anesthesiology
-Neurology
-Neuropharmacology
+Complete all prerequisite courses at the University of Washington using tuition exemption, gain clinical and shadowing experience, and apply to U.S. medical schools for MD or DO programs.
 
 ---
 
-## Academic Timeline
+## Application Timeline
 
-- **Summer 2025**: Begin work as Phlebotomist at UW Medicine (clinical experience phase)
-- **Winter 2026**: Eligible for tuition exemption (6 credits/quarter)
-- **Winter 2026 – Fall 2027**: Complete medical school prerequisites at Bellevue College or University of Washington
-- **Winter 2028**: Take MCAT exam and apply to medical school for Fall 2029 entry
-
----
-
-## Prerequisite Course Plan
-
-- **Winter 2026**: General Chemistry I + Lab
-- **Spring 2026**: General Chemistry II + Lab
-- **Summer 2026**: Organic Chemistry I + Physics I
-- **Fall 2026**: Organic Chemistry II + Physics II
-- **Winter 2027**: Biochemistry + Intro Biology I
-- **Spring 2027**: Intro Biology II + Psychology
-- **Summer 2027**: Sociology + MCAT Prep
+- **Winter 2026:** Begin prerequisite coursework (6 credits/quarter tuition exempt)
+- **Winter 2026 – Spring 2027:** Complete medical school prerequisites
+- **Summer 2027 – Winter 2028:** Prepare for and take the MCAT
+- **May–June 2028:** Submit AMCAS application
+- **Fall 2029:** Matriculate into medical school
 
 ---
 
-## Additional Strategy
+## Prerequisite Courses @ UW
 
-- Track clinical hours and patient interaction from Phlebotomy job
-- Shadow MDs/DOs and request letters of recommendation
-- Maintain GPA ≥ 3.5 in science prerequisites
-- Prepare strong personal statement and AMCAS/AACOMAS application
-- Study for and take the MCAT by Winter 2028
-
----
-
-## Financial Optimization
-
-- Use UW employee tuition waiver (6 credits/quarter) starting Winter 2026
-- Reduce pre-med coursework costs significantly
-- Apply for FAFSA and pre-med scholarships
+| Subject              | Courses                                | Planned Quarter       |
+|----------------------|----------------------------------------|------------------------|
+| General Chemistry    | CHEM 142 + 152 (with labs)             | Winter–Spring 2026     |
+| Organic Chemistry    | CHEM 237 + 238 (with labs)             | Summer–Fall 2026       |
+| Physics              | PHYS 114 + 115 (with labs)             | Summer–Fall 2026       |
+| Biology              | BIOL 180 + 200 (with labs)             | Winter–Spring 2027     |
+| Biochemistry         | BIOC 405                               | Winter 2027            |
+| Psychology           | PSYCH 101                              | Spring 2027            |
+| Sociology            | SOC 101                                | Summer 2027            |
 
 ---
 
-## Tools
+## Clinical & Shadowing Goals
 
-- **Notion**: Track shadowing, MCAT prep, and research hours
-- **GitHub**: Store application drafts, timeline, and course checklists
+- Continue clinical experience as a phlebotomist
+- Shadow anesthesiologists, neurologists, and pharmacologists
+- Record shadowing hours & request recommendation letters
+
+---
+
+## MCAT Preparation
+
+- Light content review begins Summer 2027
+- Full-length practice exams in Fall 2027
+- MCAT Exam: Winter 2028
+
+---
+
+## Tools and Tracking
+
+- GitHub: [UW-Pre-Medical Repository](https://github.com/collingeorge/UW-Pre-Medical)
+- Notion workspace: Prereq tracking, shadowing log, MCAT prep
+- Google Sheets: Timeline & course planner
 
 ---
 
