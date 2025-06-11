@@ -14,13 +14,19 @@ Prepare for and apply to U.S. medical schools (MD or DO) by completing all prere
 ## Goal
 Prepare for and apply to U.S. medical schools (MD or DO) by completing all prerequisite science coursework using UW tuition benefits, while gaining clinical experience as a phlebotomist.
 
+## Specialty
+
+Anesthesiology
+Neurology
+Neuropharmacology
+
 ---
 
 ## Academic Timeline
 
 - **Summer 2025**: Begin work as Phlebotomist at UW Medicine (clinical experience phase)
 - **Winter 2026**: Eligible for tuition exemption (6 credits/quarter)
-- **Winter 2026 – Fall 2027**: Complete medical school prerequisites at Bellevue College
+- **Winter 2026 – Fall 2027**: Complete medical school prerequisites at Bellevue College or University of Washington
 - **Winter 2028**: Take MCAT exam and apply to medical school for Fall 2029 entry
 
 ---
