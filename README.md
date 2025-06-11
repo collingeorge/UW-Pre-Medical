@@ -31,7 +31,7 @@ Neuropharmacology
 
 ---
 
-## Prerequisite Course Plan (via Bellevue College)
+## Prerequisite Course Plan
 
 - **Winter 2026**: General Chemistry I + Lab
 - **Spring 2026**: General Chemistry II + Lab
