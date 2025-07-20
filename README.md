@@ -1,63 +1,95 @@
 # UW Pre-Medical Track – Collin George
 
-**Updated:** June 11, 2025  
-**Target Specialties:** Anesthesiology, Neurology, Neuropharmacology  
-**Status:** Employed as Phlebotomist @ University of Washington
+_Updated: July 2025_  
+Target Specialties: Anesthesiology, Neurology, Neuropharmacology  
+Current Role: Phlebotomist, UW Medicine
 
 ---
 
-## Goal
-Complete all prerequisite courses at the University of Washington using tuition exemption, gain clinical and shadowing experience, and apply to U.S. medical schools for MD or DO programs.
+## 🎯 Goal
+
+Complete all prerequisite coursework at the University of Washington using tuition exemption, gain clinical and shadowing experience, and apply to U.S. medical schools (MD/DO) for Fall 2028 matriculation.
 
 ---
 
-## Application Timeline
+## 📅 Academic Timeline (Quarter-by-Quarter Plan)
 
-- **Winter 2026:** Begin prerequisite coursework (6 credits/quarter tuition exempt)
-- **Winter 2026 – Spring 2027:** Complete medical school prerequisites
-- **Summer 2027 – Winter 2028:** Prepare for and take the MCAT
-- **May–June 2028:** Submit AMCAS application
-- **Fall 2029:** Matriculate into medical school
-
----
-
-## Prerequisite Courses @ UW
-
-| Subject              | Courses                                | Planned Quarter       |
-|----------------------|----------------------------------------|------------------------|
-| General Chemistry    | CHEM 142 + 152 (with labs)             | Winter–Spring 2026     |
-| Organic Chemistry    | CHEM 237 + 238 (with labs)             | Summer–Fall 2026       |
-| Physics              | PHYS 114 + 115 (with labs)             | Summer–Fall 2026       |
-| Biology              | BIOL 180 + 200 (with labs)             | Winter–Spring 2027     |
-| Biochemistry         | BIOC 405                               | Winter 2027            |
-| Psychology           | PSYCH 101                              | Spring 2027            |
-| Sociology            | SOC 101                                | Summer 2027            |
+| Quarter           | Course 1                                | Course 2                                    |
+|------------------|------------------------------------------|---------------------------------------------|
+| **Fall 2025**     | CHEM 142 – Gen Chem I                    | BIO 180 – Intro to Biology I                |
+| **Winter 2026**   | CHEM 152 – Gen Chem II                   | BIO 200 – Intro to Biology II               |
+| **Spring 2026**   | CHEM 162 – Gen Chem III                  | BIO 220 – Intro to Biology III              |
+| **Summer 2026**   | CHEM 237 – Organic Chem I                | Begin MCAT foundations (light prep)         |
+| **Fall 2026**     | CHEM 238 – Organic Chem II               | PHYS 114 – Physics I (algebra-based)        |
+| **Winter 2027**   | CHEM 241 – Organic Chem Lab              | PHYS 115 – Physics II                       |
+| **Spring 2027**   | PHYS 116 – Physics III                   | BIOC 405 – Intro to Biochemistry            |
+| **Summer 2027**   | MCAT Full-Time Prep                      | MCAT Exam (July/August)                     |
 
 ---
 
-## Clinical & Shadowing Goals
+## ✅ Prerequisite Status
 
-- Continue clinical experience as a phlebotomist
-- Shadow anesthesiologists, neurologists, and pharmacologists
-- Record shadowing hours & request recommendation letters
-
----
-
-## MCAT Preparation
-
-- Light content review begins Summer 2027
-- Full-length practice exams in Fall 2027
-- MCAT Exam: Winter 2028
+- ✅ **Statistics** – Completed  
+- ✅ **English** – Completed  
+- ⚠️ **General Chemistry I–III** – In progress/Planned  
+- ⚠️ **Biology I–III** – In progress/Planned  
+- ⚠️ **Organic Chemistry I–III** – Planned  
+- ⚠️ **Physics I–III** – Planned  
+- ⚠️ **Biochemistry** – Planned
 
 ---
 
-## Tools and Tracking
+## 🩺 Clinical & Shadowing Goals
 
-- GitHub: [UW-Pre-Medical Repository](https://github.com/collingeorge/UW-Pre-Medical)
-- Notion workspace: Prereq tracking, shadowing log, MCAT prep
-- Google Sheets: Timeline & course planner
+- Continue full-time clinical work as a phlebotomist  
+- Shadow anesthesiologists, neurologists, CRNAs  
+- Record shadowing hours & secure letters of recommendation  
 
 ---
 
-## Credits
-- Created with the assistance of [ChatGPT by OpenAI](https://openai.com/chatgpt), for automation, formatting, and research, published [here](https://chatgpt.com/share/68436848-a8c8-8000-a543-a6597a9c6eb7)
+## 📝 MCAT Preparation
+
+- Summer–Fall 2027: Targeted content review  
+- Fall 2027: Full-length practice exams  
+- **MCAT Exam**: Late July / Early August 2027 (Goal: 510+)  
+
+---
+
+## 📌 Application Timeline
+
+- **June 2027**: Finalize MCAT results, gather LORs, write personal statement  
+- **June–July 2027**: Submit AMCAS primary application  
+- **Fall 2027 – Winter 2028**: Complete secondaries + interview season  
+- **Fall 2028**: Matriculate into Medical School  
+
+---
+
+## 📈 Tools & Tracking
+
+- GitHub: `UW-Pre-Medical` repository  
+- Excel/Google Sheets: **Course planner**, GPA tracker, MCAT schedule  
+- Notion: Prereq tracker, shadowing log, MCAT prep  
+- Clinical reflection journal  
+
+---
+
+## 🧠 Mindset & Support
+
+- Focus on **accuracy** and **effectiveness**, recognizing the difference between “being right” vs “working in the moment”  
+- Seek a **strong balance** between academic rigor and clinical growth  
+- Guided by frameworks like the **Cognitive Singularity Mirror** and **Neural-Convergent Workflow**, reflecting deep interdisciplinary integration
+
+---
+
+## 💻 Acknowledgements
+
+- Created with the support of **ChatGPT by OpenAI**
+
+---
+
+### ✅ Next Steps
+
+- Confirm enrollment for CHEM 142 and BIO 180 (Fall 2025)  
+- Set up weekly study/work rhythms aligned with academic milestones  
+- Update this README quarterly with progress and next-quarter plans  
+- Keep integrating work, study, and reflection for maximum synergy
